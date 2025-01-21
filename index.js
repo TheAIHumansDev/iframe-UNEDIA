@@ -1,8 +1,8 @@
 <script
    src="https://bit.ly/grupochess-server"
-   data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWxlby1qb3MtLWtmY2NyIiwiYXV0aFNlcnZlciI6Imh0dHBzOi8vZGguYXouc291bG1hY2hpbmVzLmNsb3VkL2FwaS9qd3QiLCJhdXRoVG9rZW4iOiJhcGlrZXlfdjFfOTYzMTU2NzgtODUzMS00ZTIwLWJmN2ItNmRiYjk4OGJiNjFlIn0="
+   data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWRlbW84MmE3LS1tZGRlbW8iLCJhdXRoU2VydmVyIjoiaHR0cHM6Ly9kaC5zb3VsbWFjaGluZXMuY2xvdWQvYXBpL2p3dCIsImF1dGhUb2tlbiI6ImFwaWtleV92MV9hZTAxODY3Ni00OTEyLTQ0YTYtODUwYS0xOTJhMjZiOTFkOTIifQ=="
    data-sm-position="bottomRight"
-   data-sm-greeting="Saluda a Sofia 👉🏼"
+   data-sm-greeting="Saluda a UNEDIA"
    data-sm-layout="fullFrame"  
-   data-sm-profile-picture="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk2OHQyZW1zNmE3eDA0ZXN5cDlrMmh2bGZpb25hZGFzY2c1YTVrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzNlVLGcOObOHv0oTu/giphy.webp" 
+   data-sm-profile-picture="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXkzZmZ2b25tczVqMnUwNTNmb3N1eHE2bnR4eTk5dWhjdDZpdHV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iunm6mcbCzSgWGzcbo/giphy.gif" 
  ></script>

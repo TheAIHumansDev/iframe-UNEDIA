@@ -1,6 +1,6 @@
 <script
    src="https://bit.ly/grupochess-server"
-   data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWZpYS1jdC1vcmctLWV4cGxvcmVyZHJlYW1zdSIsImF1dGhTZXJ2ZXIiOiJodHRwczovL2RoLnNvdWxtYWNoaW5lcy5jbG91ZC9hcGkvand0IiwiYXV0aFRva2VuIjoiYXBpa2V5X3YxXzcxMmUyY2UxLTliZjItNDIzOC1hM2EyLTVjMTEwOGMwODdhZCJ9"
+   data-sm-api-key="eyJzb3VsSWQiOiJkZG5hLWZyYW5jb2lzLWhvbGxhLW9yZy0tZXhwbG9yZXJ0cml4IiwiYXV0aFNlcnZlciI6Imh0dHBzOi8vZGguc291bG1hY2hpbmVzLmNsb3VkL2FwaS9qd3QiLCJhdXRoVG9rZW4iOiJhcGlrZXlfdjFfZTczOTJlMmQtZjZjMi00M2I4LWE3ZDEtODg2YjNkZjBhODY3In0="
    data-sm-position="bottomLeft"
    data-sm-greeting="Saluda a UNEDIA"
    data-sm-layout="fullFrame"  
